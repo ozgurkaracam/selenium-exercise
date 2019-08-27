@@ -1,2 +1,1 @@
-# selenium-exercise
-python selenium
+# Mail Checker with Selenium
